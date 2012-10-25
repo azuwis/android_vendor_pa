@@ -1,3 +1,4 @@
+add_lunch_combo pa_generic-eng
 add_lunch_combo pa_i9100-userdebug
 add_lunch_combo pa_i9300-userdebug
 add_lunch_combo pa_maguro-userdebug
